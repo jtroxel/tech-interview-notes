@@ -1,6 +1,5 @@
 #### Sources
 - https://github.com/MahdiMashrur/Awesome-Coding-Interview-Question-Patterns#awesome-coding-interview-question-patterns
-[[Firestone]]
 #### Table
 
 | **Pattern** | **Usage** | **Tricks** |
